@@ -6,4 +6,4 @@ I worked on Binary GA and Permutation GA
 notes about the Permutation GA:
 I used the Roulette wheel selection methods for the selection,
 I used the Order One Crossover method for the Crossover
-and i used the Insert Mutation for the Mutation.
+and i used the scramble Mutation for the Mutation.
