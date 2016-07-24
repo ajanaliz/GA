@@ -1,9 +1,12 @@
 # GA
-using the famouse Genetic Algorithm to solve a simple line alinement problem. learning different methods of problem solving through search
+using the famous Genetic Algorithm to solve a simple line alinement problem. learning different methods of problem solving through search
 
 I worked on Binary GA and Permutation GA
 
-notes about the Permutation GA:
+notes on the Binary GA:
+i used the Microbial GA to solve the problem domain
+
+notes on the Permutation GA:
 I used the Roulette wheel selection methods for the selection,
 I used the Order One Crossover method for the Crossover
 and i used the scramble Mutation for the Mutation.
